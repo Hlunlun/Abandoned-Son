@@ -1,6 +1,8 @@
 # Abandoned Son
-
 a mystery game based on unity and C#
+
+## member
+Ruby, 陳柏宏, 林晉德, lun
 
 ## Introduction
 This is a side-scrolling horror puzzle narrative game where players take on the role of a student who wakes up unconscious in a basement. They start to wonder where they are, begin to explore their surroundings, and try to find a way out.
