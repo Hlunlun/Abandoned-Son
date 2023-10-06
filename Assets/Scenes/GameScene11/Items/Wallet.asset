@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce3f2dd54200cca47aeef3b992c9bb3c, type: 3}
+  m_Name: Wallet
+  m_EditorClassIdentifier: 
+  itemName: Wallet
+  itemImage: {fileID: 21300000, guid: 87386fb1bb5d8e14ebd58bbee0132504, type: 3}
+  itemInfo: "\u82B1\u7D0B\u8207\u9396\u76F8\u4F3C"
+  itemCheck: 1

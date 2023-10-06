@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Notebook
+  - notebook
+  - SceneTag
+  - Highlighter
+  - ComputerNoteBook
+  - Lamp
+  - Water
+  - Memory
+  - Medicine
+  - Hole01
+  - Hole03
+  - Hole02
+  - VendingMachine
+  - Cabinet
+  - Cabinet00
+  - cabinet
+  - garbage.jpg
+  - bag
+  - DoorNext12
+  - BannedBook
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - NextScene
+  - Water
+  - UI
+  - player
+  - Floor
+  - item
+  - BackScene
+  - itemabove01
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: d976a383ea5a4c343b192b379be2f9c7
+  - enabled: 1
+    path: Assets/Scenes/Dialogue1/Scene2.unity
+    guid: 0026839e5d45a624eae1b5ab7891cec4
+  - enabled: 1
+    path: Assets/Scenes/GameScene11/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Dialogue2/Scene2.unity
+    guid: 70a2007b86a5946f4ae3c02e4e99b8f2
+  - enabled: 1
+    path: Assets/Scenes/GameScene21/Basement.unity
+    guid: 06a0a4c4a24a9ad4fa8a7775ddfc30e9
+  - enabled: 1
+    path: Assets/Scenes/Dialogue3/Scene2.unity
+    guid: 188fb8949be3d4952a1ef42ecd05e183
+  - enabled: 1
+    path: Assets/Scenes/Dialogue4/Scene2.unity
+    guid: 6324e3c61eb154a97b737ea8b195f8ec
+  - enabled: 1
+    path: Assets/Scenes/GameScene313233/GameScene3/New Scene.unity
+    guid: c4f537fc96cc9479d82f8e5b3f8fbf0f
+  - enabled: 1
+    path: Assets/Scenes/Dialogue5/Scene2.unity
+    guid: 863be92095c04454ab88424cc6df9b8d
+  - enabled: 1
+    path: Assets/Scenes/Dialogue6/Scene2.unity
+    guid: 04c54108bcc8c4923a2f6fc8ea666b79
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: 095ab09aa1634154881a6e5bee5f3d6f
+  m_configObjects: {}
