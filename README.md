@@ -21,6 +21,6 @@ This is a side-scrolling horror puzzle narrative game where players take on the 
 5. Assets/Inventory holds assets related to the inventory system.
 
 ## Demo
-[link](https://drive.google.com/drive/folders/1S_rU92dcE4aDLEEZi9fwh5fPRqit7kN9)https://drive.google.com/drive/folders/1S_rU92dcE4aDLEEZi9fwh5fPRqit7kN9
+[link](https://drive.google.com/drive/folders/1S_rU92dcE4aDLEEZi9fwh5fPRqit7kN9)
 
 
