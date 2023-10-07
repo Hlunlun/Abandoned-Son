@@ -21,7 +21,7 @@ This is a side-scrolling horror puzzle narrative game where players take on the 
 5. Assets/Inventory holds assets related to the inventory system.
 
 ## Demo
-[![image](https://github.com/Hlunlun/Abandoned-Son/assets/92961617/b6f94852-c230-463b-bc0a-269311b69720)](https://youtu.be/OhcouCsMswM?feature=shared)
+[![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 
 
